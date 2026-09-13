@@ -1,0 +1,6 @@
+@Koshkinegor_WebApplication_HostAddress = http://localhost:5297
+
+GET {{Koshkinegor_WebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
